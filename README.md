@@ -8,4 +8,5 @@ Jag *(Tallberg aka Sway_ aka Wayland...)* har mer eller mindre gett upp BT. Jag 
 Det har tillkommit en hel del sen jag lämnade men basic grejjer bör fungera med några små tweaks men var snäll och se till att det ni inte DDOS:ar sönder BT med era tweakar bara och följ gärna de klena licenskrav jag satt:  
 *[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/3.0/)*  
 Det finns nog några BT-människor som inte är git- och C#-bekväma som ni kan klämma på olja utan att bryta mot licensen ;)  
+
 GLHF // Tallberg
