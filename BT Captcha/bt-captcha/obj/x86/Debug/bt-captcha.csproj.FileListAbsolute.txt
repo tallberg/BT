@@ -1,0 +1,10 @@
+D:\Documents\Code\C#.NET\bt-captcha\bt-captcha\obj\x86\Debug\bt_captcha.Form1.resources
+D:\Documents\Code\C#.NET\bt-captcha\bt-captcha\obj\x86\Debug\bt_captcha.Properties.Resources.resources
+D:\Documents\Code\C#.NET\bt-captcha\bt-captcha\bin\Debug\bt-captcha.exe
+D:\Documents\Code\C#.NET\bt-captcha\bt-captcha\bin\Debug\bt-captcha.pdb
+D:\Documents\Code\C#.NET\bt-captcha\bt-captcha\obj\x86\Debug\bt-captcha.exe
+D:\Documents\Code\C#.NET\bt-captcha\bt-captcha\obj\x86\Debug\bt-captcha.pdb
+D:\Documents\Code\C#.NET\bt-captcha\bt-captcha\obj\x86\Debug\bt-captcha.csprojResolveAssemblyReference.cache
+D:\Documents\Code\C#.NET\bt-captcha\bt-captcha\obj\x86\Debug\bt-captcha.csproj.GenerateResource.Cache
+D:\Documents\Code\C#.NET\BTT\BT Captcha\bt-captcha\obj\x86\Debug\bt-captcha.exe
+D:\Documents\Code\C#.NET\BTT\BT Captcha\bt-captcha\obj\x86\Debug\bt-captcha.pdb

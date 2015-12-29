@@ -1,0 +1,16 @@
+D:\Documents\Code\C#.NET\BT\bt\bt\bin\Release\bt.exe
+D:\Documents\Code\C#.NET\BT\bt\bt\bin\Release\bt.pdb
+D:\Documents\Code\C#.NET\BT\bt\bt\obj\x86\Release\bt.frmMain.resources
+D:\Documents\Code\C#.NET\BT\bt\bt\obj\x86\Release\bt.Properties.Resources.resources
+D:\Documents\Code\C#.NET\BT\bt\bt\obj\x86\Release\bt.exe
+D:\Documents\Code\C#.NET\BT\bt\bt\obj\x86\Release\bt.pdb
+D:\Documents\Code\C#.NET\BT\bt\bt\obj\x86\Release\bt.csprojResolveAssemblyReference.cache
+D:\Documents\Code\C#.NET\BT\bt\bt\obj\x86\Release\bt.csproj.GenerateResource.Cache
+D:\Documents\Code\C#.NET\BTT\BT Tasker\bt\obj\x86\Release\bt.exe
+D:\Documents\Code\C#.NET\BTT\BT Tasker\bt\obj\x86\Release\bt.pdb
+D:\Documents\Code\C#.NET\BTT\BT Tasker\bt\bin\Release\bt.exe
+D:\Documents\Code\C#.NET\BTT\BT Tasker\bt\bin\Release\bt.pdb
+D:\Documents\Code\C#.NET\BTT\BT Tasker\bt\obj\x86\Release\bt.csprojResolveAssemblyReference.cache
+D:\Documents\Code\C#.NET\BTT\BT Tasker\bt\obj\x86\Release\bt.frmMain.resources
+D:\Documents\Code\C#.NET\BTT\BT Tasker\bt\obj\x86\Release\bt.Properties.Resources.resources
+D:\Documents\Code\C#.NET\BTT\BT Tasker\bt\obj\x86\Release\bt.csproj.GenerateResource.Cache
